@@ -1,9 +1,10 @@
 {
-  "versionCode": 7,
-  "versionName": "1.6",
+  "versionCode": 8,
+  "versionName": "1.7",
   "url": "https://pools-cloud.github.io/mi-cartera/apk/MiCartera.apk",
   "cambios": [
-    "La app se actualiza sola: al abrirla mira si hay versión nueva y la descarga",
-    "Mis órdenes: borrar una orden pide confirmación"
+    "Herramientas de dibujo en el gráfico: tendencia, rayo, horizontal, vertical, canal, rectángulo, Fibonacci, medir, texto y pincel",
+    "Color, imán, ocultar, deshacer y borrar dibujos; se guardan por valor",
+    "El logo de TradingView abre ese valor en TradingView"
   ]
 }

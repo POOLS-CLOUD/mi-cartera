@@ -1,0 +1,9 @@
+{
+  "versionCode": 7,
+  "versionName": "1.6",
+  "url": "https://pools-cloud.github.io/mi-cartera/apk/MiCartera.apk",
+  "cambios": [
+    "La app se actualiza sola: al abrirla mira si hay versión nueva y la descarga",
+    "Mis órdenes: borrar una orden pide confirmación"
+  ]
+}
